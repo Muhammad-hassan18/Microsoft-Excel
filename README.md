@@ -1,8 +1,5 @@
 # Microsoft-Excel
 My daily Microsoft Excel learning journey with practice files, notes, formulas, and projects.
-# Microsoft Excel Portfolio
-
-A professional portfolio showcasing Microsoft Excel projects, business datasets, analytical workflows, dashboards, and practical solutions developed for data analytics and reporting.
 
 ## Repository Structure
 
