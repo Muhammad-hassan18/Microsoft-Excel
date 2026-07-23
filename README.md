@@ -4,9 +4,6 @@
 
 ![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Learning-success?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/Microsoft-Excel?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/Microsoft-Excel?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 ---
 
