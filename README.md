@@ -3,7 +3,7 @@
 > Building strong Excel skills one project at a time.
 
 ![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Learning-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ---
 
